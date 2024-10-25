@@ -4,6 +4,7 @@
 -   [Guía](https://bluuweb.github.io/webpack/)
 
 1. Para crear el package.json
+
     ```bash
     npm init -y
     ```
